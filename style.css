@@ -129,7 +129,7 @@
   word-wrap: break-word;
 }
 
-/* This is Category CSS area start */
+/* This is Category area CSS start */
 .category-section-container {
   height: 50vh;
 }
@@ -170,4 +170,77 @@
   font-weight: 500;
   line-height: 24px;
   word-wrap: break-word;
+}
+
+/* This is Filter Product area CSS start */
+.filter-product-section-container {
+  height: 100vh;
+}
+
+.op-1 {
+  color: black;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 32px;
+  word-wrap: break-word;
+}
+.op-2 {
+  color: #8b8b8b;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 32px;
+  word-wrap: break-word;
+}
+
+.card-icon {
+  text-align: end;
+  font-size: x-large;
+}
+
+.special-icon{
+  color: #FF0000;
+}
+
+.filter-product-card {
+  background-color: #f6f6f6;
+  text-align: center;
+  padding: 24px;
+}
+
+.card-description {
+  color: black;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  word-wrap: break-word;
+}
+
+.card-money {
+  color: black;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.72px;
+  word-wrap: break-word;
+}
+
+.card-btn {
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  word-wrap: break-word;
+  width: 100%;
+  height: 100%;
+  padding-left: 64px;
+  padding-right: 64px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background: black;
+  border-radius: 8px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  display: inline-flex;
 }
