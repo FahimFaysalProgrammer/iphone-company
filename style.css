@@ -51,7 +51,7 @@
   word-wrap: break-word;
 }
 
-.banner-btn {
+.primary-btn {
   color: white;
   font-size: 16px;
   font-weight: 900;
@@ -61,4 +61,71 @@
   border-radius: 6px;
   border: 1px white solid;
   padding: 16px 56px;
+}
+
+/* This is Products area CSS start */
+.product-container {
+  height: 100vh;
+}
+
+.ipad-img{
+  width: 133%;
+}
+
+
+.product-ipad-title {
+  color: black;
+  font-size: 49px;
+  font-weight: 500;
+  line-height: 40px;
+  word-wrap: break-word;
+}
+
+.product-ipad-description {
+  color: #909090;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  word-wrap: break-word;
+}
+
+.airpod-bg {
+  background-color: #adc2d7;
+}
+
+.product-airpod-title {
+  color: black;
+  font-size: 29px;
+  font-weight: 300;
+  line-height: 40px;
+  word-wrap: break-word;
+}
+
+.product-airpod-description {
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  word-wrap: break-word;
+}
+
+.macbook-bg {
+  background-color: #ededed;
+}
+
+.product-mac-title {
+  color: black;
+  font-size: 64px;
+  font-weight: 100;
+  line-height: 56px;
+  word-wrap: break-word;
+}
+
+.product-mac-description {
+  color: #909090;
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 24px;
+  word-wrap: break-word;
 }
