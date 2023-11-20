@@ -174,7 +174,7 @@
 
 /* This is Filter Product area CSS start */
 .filter-product-section-container {
-  height: 100vh;
+  height: 75vh;
 }
 
 .op-1 {
@@ -197,8 +197,8 @@
   font-size: x-large;
 }
 
-.special-icon{
-  color: #FF0000;
+.special-icon {
+  color: #ff0000;
 }
 
 .filter-product-card {
@@ -243,4 +243,30 @@
   align-items: center;
   gap: 8px;
   display: inline-flex;
+}
+
+/* This is Discount Sale area CSS start */
+.discount-sale-section-container {
+  height: 80vh;
+  background-color: #958ad4;
+}
+
+.discount-title {
+  color: #25177b;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 72px;
+  word-wrap: break-word;
+  width: 100%;
+  text-align: center;
+}
+
+.discount-description {
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 32px;
+  word-wrap: break-word;
+  width: 100%;
+  text-align: center;
 }
