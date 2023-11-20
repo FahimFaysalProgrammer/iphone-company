@@ -270,3 +270,27 @@
   width: 100%;
   text-align: center;
 }
+
+/* This is footer section area CSS start */
+
+.footer-container {
+  height: 50vh;
+  background-color: #0e071b;
+}
+
+.footer-title {
+  color: white;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 100;
+  line-height: 16px;
+  word-wrap: break-word;
+}
+
+.footer-link {
+  color: #cfcfcf;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 32px;
+  word-wrap: break-word;
+}
